@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiveRates</string>
+    <string name="errorTitle">Network Error</string>
+    <string name="errorMessage">The app cannot connect to the internet. Please check your connectivity and try again</string>
+    <string name="exit">Exit</string>
+    <string name="retry">Retry</string>
+</resources>
